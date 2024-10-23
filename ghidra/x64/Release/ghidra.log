@@ -1,0 +1,10 @@
+﻿  ghidra.cpp
+d:\program\vs\ghidra\ghidra\ghidra.cpp(23): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+d:\program\vs\ghidra\ghidra\ghidra.cpp(27): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+     Creating library D:\program\vs\ghidra\x64\Release\ghidra.lib and object D:\program\vs\ghidra\x64\Release\ghidra.exp
+  Generating code
+  2 of 29 functions ( 6.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ghidra.vcxproj -> D:\program\vs\ghidra\x64\Release\ghidra.dll

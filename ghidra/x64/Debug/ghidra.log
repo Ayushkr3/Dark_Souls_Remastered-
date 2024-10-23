@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  ghidra.cpp
+d:\program\vs\ghidra\ghidra\ghidra.cpp(7): warning C4273: 'ShellExecuteW': inconsistent dll linkage
+  d:\program\vs\ghidra\ghidra\ghidra.h(10): note: see previous definition of 'ShellExecuteW'
+  Generating Code...
+     Creating library D:\program\vs\ghidra\x64\Debug\ghidra.lib and object D:\program\vs\ghidra\x64\Debug\ghidra.exp
+  ghidra.vcxproj -> D:\program\vs\ghidra\x64\Debug\ghidra.dll
