@@ -1,0 +1,2 @@
+#define STEAMCLIENT64_API __declspec(dllexport)
+#define STEAMCLIENT64_API __declspec(dllimport)
